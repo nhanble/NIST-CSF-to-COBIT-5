@@ -390,7 +390,7 @@ jQuery(document).ready(function() {
 
     var shows = _.map(showNames, function (name) {
         var show = rel.createShow(name, point.clone());
-        point.y += 18;
+        point.y += 21;
         return show;
     });
     /*
