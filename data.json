@@ -1,7 +1,7 @@
 ﻿var DATA = {
-    "Aidan Gillen": [
-        "Game of Thrones",
-        "The Wire"
+    "ID.AM-1": [
+        "BAI09.01",
+        "BAI09.02"
     ],
     "Alexander Skarsgård": [
         "Generation Kill",
