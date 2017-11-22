@@ -1,12 +1,12 @@
-HBO Recycling Infographic
+NISTCSF to COBIT5 
 ==================================================
 
-I love the diagram in [The HBO Recycling Program](http://www.grantland.com/story/_/id/6635619/the-hbo-recycling-program).  It shows you the actors who've worked in multiple HBO shows and makes it clear how often HBO works with the same actors.  The image is pretty and interesting to look at, but it's difficult to read.  
+This diagram is meant to show the mapping from NIST CSF to COBIT 5.
 
-Can you find the one actor who's worked on Oz, The Sopranos, and The Wire?  I can't.
+I leveraged previous work done by Guthub user zgrossbart on the HBO Recycling Project.
 
-I love the idea, but the implementation falls short.  This project is all about creating a new interactive version of this image which makes it easier to use.  
+[zgrossbart.github.com/hborecycling](http://zgrossbart.github.com/hborecycling)
+[The HBO Recycling Program](http://www.grantland.com/story/_/id/6635619/the-hbo-recycling-program).  
 
-This info graphic is made with [PaperJS](http://www.paperjs.org), [underscore.js](http://documentcloud.github.com/underscore), and a little [JQuery](http://www.jquery.com) with fonts from [Typekit](http://typekit.com).
+This info graphic is made with [PaperJS](http://www.paperjs.org), [underscore.js](http://documentcloud.github.com/underscore), and a [JQuery](http://www.jquery.com) with fonts from [Typekit](http://typekit.com).
 
-Try it out:  [zgrossbart.github.com/hborecycling](http://zgrossbart.github.com/hborecycling)
