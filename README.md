@@ -1,4 +1,4 @@
-NISTCSF to COBIT5 
+NIST CSF to COBIT5 
 ==================================================
 
 This diagram is meant to show the mapping from NIST CSF to COBIT 5.
